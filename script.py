@@ -72,13 +72,36 @@ class Medium:
             print("###########################################")
         print('-------------------------------------------------------------------------------------------------------')
 
-    
+    def medium_developer(self):
+        feed_developer = feedparser.parse(
+            "https://medium.com/feed/tag/developer"
+        )
+        print("Developer News Today: ")
+        for i in range(5):
+            entry = feed_developer.entries[i]
+            print(entry.title)
+            print("URL: " + entry.link)
+            print("###########################################")
+        print('-------------------------------------------------------------------------------------------------------')
+
+
+class StockExchange:
+    def nse_stock(self):
+        nse = Nse()
+        print("TOP GAINERS OF YESTERDAY")
+        pprint.pprint(nse.get_top_gainers())
+        print("###########################################")
+        print("TOP LOSERS OF YESTERDAY")
+        pprint.pprint(nse.get_top_losers())
+        print("###########################################")
+        print('-------------------------------------------------------------------------------------------------------')
+
 
 # objects inititalization
 # reddit_object = Reddit()
 News_object = News()
 Medium_object = Medium()
-#StockExchange_object = StockExchange()
+StockExchange_object = StockExchange()
 
 if __name__ == "__main__":
     # Functions call of each class
@@ -87,6 +110,6 @@ if __name__ == "__main__":
     Medium_object.medium_python()
     Medium_object.medium_programming()
     Medium_object.medium_developer()
-   # StockExchange_object.nse_stock()
+    StockExchange_object.nse_stock()
 
     
