@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Megha Brahmbhatt</h1>
-<h3 align="center">A passionate React Developer from India, Pursuing Msc CS at Lakehead University, Canada</h3>
+
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="ContentAggregator_0"></a>ContentAggregator</h1>
 <h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="_A_Price_Compare_Web_Scrapper_1"></a>A Price Compare Web Scrapper</h2>
 <p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://www.fullstackpython.com/img/pages/flask-python-fsp.jpg" alt="N|Solid"></a></p>
