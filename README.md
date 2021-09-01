@@ -45,6 +45,12 @@ your preferred browser.</p>
 <h2 class="code-line" data-line-start=44 data-line-end=45 ><a id="Results_45">Results</a></h2>
 
 <p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://github.com/Way-U-Need/ContentAggregator/blob/main/Screenshot%20(110).png"><img src="https://github.com/Way-U-Need/ContentAggregator/blob/main/Screenshot%20(110).png"></a></p>
+<br/>
+<p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://github.com/Way-U-Need/ContentAggregator/blob/main/Screenshot%20(111).png"><img src="https://github.com/Way-U-Need/ContentAggregator/blob/main/Screenshot%20(111).png"></a></p>
+<br/>
+
+<p class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://github.com/Way-U-Need/ContentAggregator/blob/main/Screenshot%20(112).png"><img src="https://github.com/Way-U-Need/ContentAggregator/blob/main/Screenshot%20(112).png"></a></p>
+
 <h2 class="code-line" data-line-start=60 data-line-end=61 ><a id="License_60"></a>License</h2>
 <p class="has-line-data" data-line-start="62" data-line-end="63">MIT</p>
 
